@@ -21,9 +21,9 @@ Ce cursus approfondit les compétences essentielles de la Blue Team : du triage 
 | 09 | **Windows Security Monitoring** | ✅ | Analyse des logs Windows et détection d'attaques. |
 | 10 | **Linux Security Monitoring** | ✅ | Analyse des logs Linux et threat detection labs. |
 | 11 | **Malware Concepts for SOC** | ✅ | Types de malwares et attaques "Living off the Land". |
-| 12 | **Threat Analysis Tools** | ⏳ | Utilisation de la Threat Intelligence. |
-| 13 | **SIEM Triage for SOC** | ⏳ | Corrélation de logs et chronologie d'incidents. |
-| 14 | **SOC Level 1 Capstone** | ⏳ | Défis finaux et investigation d'incidents critiques. |
+| 12 | **Threat Analysis Tools** | ✅ | Utilisation de la Threat Intelligence. |
+| 13 | **SIEM Triage for SOC** | ✅ | Corrélation de logs et chronologie d'incidents. |
+| 14 | **SOC Level 1 Capstone** | ✅ | Défis finaux et investigation d'incidents critiques. |
 
 ---
 
